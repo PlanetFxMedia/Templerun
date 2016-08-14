@@ -1,0 +1,9 @@
+database:
+  host: 85.214.228.109
+  port: 3306
+  db: akonia_cloudsystem
+  user: akonia
+  password: Sebastian122
+gameSettings:
+  kick-afk: true
+  default-speed: 3
